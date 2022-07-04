@@ -20,7 +20,7 @@ easy and comfortable gripping it by hand. Moreover the height of the handle is a
 persons of different height (if you see the slanted rods in the model you will
 observe that the rods slide into one another, much the same way as you see a selfie
 stick expand). Thus the mower has a compact design with amazing expandability. The
-handle can also be titlted by the user depending on his/her choice.
+handle can also be tilted by the user depending on his/her choice.
 
 > <b><ins>Wheels</ins>:</b> The wheels have small inward concave depressions along their circumference.
 This is specifically designed to make motion on a rough ground smooth by circumventing solid objects
