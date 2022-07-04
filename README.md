@@ -4,7 +4,8 @@ This project consist of designing and modelling a common product : <strong>Lawn 
 #### Have a look at the 3-D model in the files [`lawn_mower.stl`](lawn_mower.stl) or [`lawn_mower.stl.glb`](lawn_mower.stl.glb). Note: since the files are large so github won't be able to render them. Try downloading them and then viewing them in a CAD software.
 
 ### Some screenshots taken from FreeCAD
-<center>
-<img src="view1.jpg">
+ 
+<img src="view1.jpg" width=675>
 <img src="view2.jpg">
-</center>
+ 
+
