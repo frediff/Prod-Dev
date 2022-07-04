@@ -5,7 +5,7 @@ This project consist of designing and modelling a common product : <strong>Lawn 
 
 ### Some screenshots taken from FreeCAD
  
-<img src="view1.jpg" width=675>
-<img src="view2.jpg">
+<img src="view1.png" width=675>
+<img src="view2.png">
  
 
