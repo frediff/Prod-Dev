@@ -5,8 +5,8 @@ This project consist of designing and modelling a common product : <strong>Lawn 
 
 ### Salient Features of the Design
 > <b><ins>Blades (Comb-Knife idea)</ins>:</b> There is one circular blade at the bottom of the car. With this, we
-are adding another three comb like structured blades. It will help with cutting relatively
-large grasses, weeds or just collecting any plastic bags or chips packet. This blade will
+are adding another three comb like structured extensions. It will help with cutting relatively
+large grasses, weeds or just collecting any plastic bags or chips packet. This comb will also
 serve as a protector thereby preventing a situation where a very thin plastic directly comes with the main rotating blade, and is patched up causing
 damage to the machinery. Ever thought why a barber cuts your hair with a knife and a comb?
 The combination of the circular blade and the front part of the mower has this comb like design making grass cutting extremely efficient.
