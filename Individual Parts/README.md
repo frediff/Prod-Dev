@@ -3,7 +3,7 @@ This directory consists of the 3-D models of the individual parts of the Lawn Mo
 
 - `motor_mount.FCStd`: Contains the axle along with a threaded rod and ventilation fan.
 - `wheel.FCStd`: Contains the wheel design.
-- `blade.FCStd`: Contains the main cutting blade that has a nut at the center to fit in with the threaded rod of the motor mount.
+- `blade.FCStd`: Contains the main cutting blade that has a nut at the centre to fit in with the threaded rod of the motor mount.
 - `grass_storage_box.FCStd`: Contains the module that collects cut grass (through an array of grass collectors) and stores them.
 - `nut_bolt.FCStd`: Contains a specific design of the nut to be used in the lawn mower for fitting in bolts.
 - `threadings_screw.FCStd`: Contains a specific design of the screwing groove to be used in the lawn mower. 
