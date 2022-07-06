@@ -4,9 +4,8 @@ This project consist of designing and modelling a common product : <strong>Lawn 
 ##### Have a look at the 3-D model in the files [`lawn_mower.stl`](lawn_mower.stl) or [`lawn_mower.stl.glb`](lawn_mower.stl.glb). Note: since the files are large so github won't be able to render them. Try downloading them and then viewing them in a CAD software.
 
 ### Salient Features of the Design
-> <b><ins>Blades (Comb-Knife idea)</ins>:</b> There is one circular blade at the bottom of the car. With this, we
-are adding another three comb like structured extensions. It will help with cutting relatively
-large grasses, weeds or just collecting any plastic bags or chips packet. This comb will also
+> <b><ins>Blades (Comb-Knife idea)</ins>:</b> There is one circular blade at the bottom placed in the front portion of the mower. With this three comb like structured extensions are added. This helps in cutting relatively
+large grasses, weeds or just collecting any plastic bags or packets. This comb will also
 serve as a protector thereby preventing a situation where a very thin plastic directly comes with the main rotating blade, and is patched up causing
 damage to the machinery. Ever thought why a barber cuts your hair with a knife and a comb?
 The combination of the circular blade and the front part of the mower has this comb like design making grass cutting extremely efficient.
@@ -24,7 +23,7 @@ handle can also be tilted by the user depending on his/her choice.
 
 > <b><ins>Wheels</ins>:</b> The wheels have small inward concave depressions along their circumference.
 This is specifically designed to make motion on a rough ground smooth by circumventing solid objects
-that come in the path of the wheel. This is done by accommodating the undulation in the terrain in the space that these
+that come in the path of the wheel. This happens by accommodating the undulation in the terrain in the space that these
 wheel-depression create with the ground
 
 ### Some screenshots taken from FreeCAD
