@@ -24,7 +24,7 @@ handle can also be tilted by the user depending on his/her choice.
 > <b><ins>Wheels</ins>:</b> The wheels have small inward concave depressions along their circumference.
 This is specifically designed to make motion on a rough ground smooth by circumventing solid objects
 that come in the path of the wheel. This happens by accommodating the undulation in the terrain in the space that these
-wheel-depression create with the ground
+wheel-depression create with the ground.
 
 ### Some screenshots taken from FreeCAD
  
